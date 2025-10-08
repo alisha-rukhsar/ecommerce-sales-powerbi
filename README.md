@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard — Power BI
+# E-Commerce KPI Dashboard — Excel & Power BI
 
 ## Project Overview
 This Power BI project analyzes e-commerce sales performance across multiple dimensions such as region, category, profit, and customer segments.  
